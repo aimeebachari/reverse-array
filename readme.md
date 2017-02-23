@@ -1,6 +1,6 @@
 # Intrepid Pursuits Interview Challenge
 
-I created this repo to finish the challenge from our phone screen. I couldn't wait a solution to reverse an array without initializing an blank array since I had never done this before. Thanks for the challenge!
+I created this repo to finish the challenge from our phone screen. I couldn't wait to find a solution to reverse an array without initializing an blank array since we ran out of time. Thanks for the challenge!
 
 I added some bells and whistles since I was able to put the phone down, settle in, and sweat the details.
 
