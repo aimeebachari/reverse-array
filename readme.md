@@ -19,8 +19,9 @@ From the root:
 ```
 ruby benchmark.rb
 ```
-
+```
 user                             system     total      real
 ruby core Array#reverse          0.030000   0.030000   0.060000 (  0.048196)
 my #reverse_array                0.580000   0.000000   0.580000 (  0.592210)
 my original solution             1.190000   0.040000   1.230000 (  1.237110)
+```
